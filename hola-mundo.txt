@@ -1,2 +1,2 @@
 ¡Hola Mundo!
-Este cambio lo voy a subir al repositorio remoto
+Este cambio lo voy a subir al repositorio de github.com
