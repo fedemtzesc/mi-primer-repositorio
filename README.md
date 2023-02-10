@@ -1,3 +1,3 @@
 # mi-primer-repositorio
 
-Mi primer repositorio en GitHub del cuerso de Free Code Camp
+Mi primer repositorio en GitHub del curso de Free Code Camp
